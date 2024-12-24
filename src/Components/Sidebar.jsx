@@ -86,7 +86,7 @@ export default function Sidebar({ selectedTab, setselectedTab }) {
           </li>
           <li>
             <a className="dropdown-item" href="#">
-              Sign out
+              Sign out n
             </a>
           </li>
         </ul>
